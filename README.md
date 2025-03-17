@@ -2,9 +2,6 @@
 
 This guide provides the necessary steps to set up a Fedora-based server with essential software, including Google Chrome, Visual Studio Code, PHP (multiple versions), Apache/Nginx, MariaDB, and various PHP extensions.
 
-## 1. Install Google Chrome
-
-To install Google Chrome on Fedora, follow these steps:
 
 ```bash
 # Enable Fedora Workstation Repositories
