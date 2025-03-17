@@ -84,3 +84,5 @@ sudo systemctl status mariadb.service
 # Run the MariaDB secure installation script to configure root password and secure the database
 sudo mysql_secure_installation
 
+# Install PhpMyAdmin
+sudo dnf install phpmyadmin
